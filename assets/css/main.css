@@ -355,7 +355,7 @@ select {
 }
 
 .theme-bg {
-  background: #E48216;
+  background: #AA7847;
 }
 
 .visa-hover-bg {
@@ -390,7 +390,7 @@ select {
 }
 
 .theme-color {
-  color: #E48216;
+  color: #AA7847;
 }
 
 .footer-social-color {
@@ -1726,7 +1726,7 @@ select {
   transition: all 0.3s ease-out 0s;
 }
 .read-more a:hover {
-  color: #E48216;
+  color: #AA7847;
 }
 .read-more a:hover i {
   margin-left: 15px;
@@ -1785,7 +1785,7 @@ select {
 
 .subtitle {
   font-size: 15px;
-  color: #E48216;
+  color: #AA7847;
   color: #6f6f6f;
   margin-bottom: 15px;
   font-weight: 500;
@@ -1835,7 +1835,7 @@ select {
   text-align: center;
   padding: 0px 70px 0px 40px;
   display: inline-block;
-  background: #E48216;
+  background: #AA7847;
   font-weight: 500;
   border: none;
   outline: none;
@@ -1995,7 +1995,7 @@ select {
 }
 
 .top-button a {
-  background-color: #E48216;
+  background-color: #AA7847;
   height: 40px;
   display: block;
   line-height: 40px;
@@ -2149,7 +2149,7 @@ select {
 .main-menu-wrapper__call-number h5 {
   font-size: 20px;
   font-weight: 700;
-  color: #E48216;
+  color: #AA7847;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .main-menu-wrapper__call-number h5 {
@@ -2244,7 +2244,7 @@ select {
   right: 0;
   z-index: -1;
   transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
-  background: #E48216;
+  background: #AA7847;
 }
 .main-menu ul li .sub-menu li a:active {
   color: #ffffff;
@@ -2254,7 +2254,7 @@ select {
   content: "";
   top: 0;
   left: -1px;
-  background: #E48216;
+  background: #AA7847;
   width: 4px;
   height: 100%;
   opacity: 0;
@@ -2275,7 +2275,7 @@ select {
   visibility: visible;
 }
 .main-menu ul li .sub-menu li:active {
-  background-color: #E48216;
+  background-color: #AA7847;
 }
 .main-menu ul li .sub-menu li:hover > a:before {
   width: 100%;
@@ -2283,10 +2283,10 @@ select {
   right: auto;
 }
 .main-menu ul li:hover a {
-  color: #E48216;
+  color: #AA7847;
 }
 .main-menu ul li:hover.menu-item-has-children::after {
-  color: #E48216;
+  color: #AA7847;
 }
 .main-menu ul li:hover > .sub-menu {
   opacity: 1;
@@ -2366,11 +2366,11 @@ select {
 }
 
 .nav-search:hover {
-  color: #E48216;
+  color: #AA7847;
 }
 
 .nav-search:hover {
-  color: #E48216;
+  color: #AA7847;
 }
 
 .search-wrap {
@@ -2643,7 +2643,7 @@ input.main-search-input:-ms-input-placeholder {
   box-shadow: 0px 0px 30px 0px rgba(0, 5, 63, 0.1);
 }
 .slider-active .slide-prev:hover, .slider-active .slide-next:hover {
-  background: #E48216;
+  background: #AA7847;
   color: #ffffff;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px), xl, only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px) {
@@ -2681,7 +2681,7 @@ input.main-search-input:-ms-input-placeholder {
   }
 }
 .slider-active .slide-prev:hover, .slider-active .slide-next:hover {
-  background: #E48216;
+  background: #AA7847;
   color: #ffffff;
 }
 
@@ -2809,8 +2809,8 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .banner-content .sub-btn:hover, .banner-content .sub-btn:focus {
-  background: #E48216;
-  border-color: #E48216;
+  background: #AA7847;
+  border-color: #AA7847;
 }
 
 .banner-content .select2-container--default .select2-selection--single .select2-selection__arrow {
@@ -2964,7 +2964,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .visa__items:hover {
-  border-left: 1px solid #E48216;
+  border-left: 1px solid #AA7847;
 }
 
 .visa-top {
@@ -3039,8 +3039,8 @@ input.main-search-input:-ms-input-placeholder {
   transition: all 0.3s ease-out 0s;
 }
 .features:hover .features__content {
-  background-color: #E48216;
-  border: 1px solid #E48216;
+  background-color: #AA7847;
+  border: 1px solid #AA7847;
 }
 .features:hover .features__content-title {
   color: #ffffff;
@@ -3076,10 +3076,10 @@ input.main-search-input:-ms-input-placeholder {
   margin-left: 8px;
 }
 .features2:hover {
-  border: 1px solid #E48216;
+  border: 1px solid #AA7847;
 }
 .features2:hover .read-more {
-  color: #E48216;
+  color: #AA7847;
 }
 .features2:hover .read-more i {
   margin-left: 10px;
@@ -3091,7 +3091,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .features2__icon i {
   font-size: 40px;
-  color: #E48216;
+  color: #AA7847;
 }
 
 /*----------------------------------------*/
@@ -3441,7 +3441,7 @@ input.main-search-input:-ms-input-placeholder {
   margin-bottom: 33px;
 }
 .about-span span {
-  color: #E48216;
+  color: #AA7847;
   font-weight: 700;
 }
 
@@ -3590,7 +3590,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 .about2__icon i {
   font-size: 45px;
-  color: #E48216;
+  color: #AA7847;
 }
 
 .about2__content h4 {
@@ -3676,7 +3676,7 @@ input.main-search-input:-ms-input-placeholder {
   animation: pulse 2s infinite;
 }
 .play-btn i {
-  color: #E48216;
+  color: #AA7847;
 }
 
 .intro-btn {
@@ -3712,7 +3712,7 @@ input.main-search-input:-ms-input-placeholder {
   }
 }
 .btn-download i {
-  color: #E48216;
+  color: #AA7847;
   margin-right: 15px;
   font-size: 20px;
 }
@@ -3767,8 +3767,8 @@ input.main-search-input:-ms-input-placeholder {
 
 .ab-tabs .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #ffffff;
-  background-color: #E48216;
-  border: 1px solid #E48216;
+  background-color: #AA7847;
+  border: 1px solid #AA7847;
 }
 
 .abtb-content {
@@ -3782,7 +3782,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 .abtb-content span {
   font-size: 16px;
-  color: #E48216;
+  color: #AA7847;
   font-weight: 500;
   line-height: 28px;
   margin-bottom: 5px;
@@ -3836,7 +3836,7 @@ input.main-search-input:-ms-input-placeholder {
   height: 14px;
   width: 14px;
   border-radius: 50%;
-  background: #E48216;
+  background: #AA7847;
   margin: 0 auto;
   text-align: center;
   margin-top: 15px;
@@ -3943,7 +3943,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .check-use a i {
   margin-right: 15px;
-  color: #E48216;
+  color: #AA7847;
   font-size: 20px;
   position: relative;
   top: 1px;
@@ -3994,8 +3994,8 @@ input.main-search-input:-ms-input-placeholder {
   font-size: 20px;
 }
 .services-items a:hover {
-  background: #E48216;
-  border: 1px solid #E48216;
+  background: #AA7847;
+  border: 1px solid #AA7847;
 }
 .services-items a:hover i {
   color: #ffffff;
@@ -4038,7 +4038,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 .fact h1 {
   font-size: 50px;
-  color: #E48216;
+  color: #AA7847;
   margin-bottom: 3px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
